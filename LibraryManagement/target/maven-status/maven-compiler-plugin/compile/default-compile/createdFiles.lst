@@ -1,0 +1,11 @@
+com/example/library/controller/LibraryController.class
+com/example/library/repository/TagRepository.class
+com/example/library/entity/BookTag.class
+com/example/library/service/impl/LibraryServiceImpl.class
+com/example/library/Application.class
+com/example/library/service/LibraryService.class
+com/example/library/entity/Book.class
+com/example/library/entity/BookTagId.class
+com/example/library/repository/BookRepository.class
+com/example/library/validation/IsbnValidator.class
+com/example/library/entity/Tag.class

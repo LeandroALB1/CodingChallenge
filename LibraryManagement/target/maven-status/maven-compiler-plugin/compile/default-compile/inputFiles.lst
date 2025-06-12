@@ -1,0 +1,11 @@
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/controller/LibraryController.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/service/impl/LibraryServiceImpl.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/validation/IsbnValidator.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/service/LibraryService.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/entity/Book.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/entity/Tag.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/entity/BookTag.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/repository/BookRepository.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/entity/BookTagId.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/Application.java
+/home/leandro/linuxworkspace/LibraryManagement/src/main/java/com/example/library/repository/TagRepository.java
